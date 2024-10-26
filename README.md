@@ -7,7 +7,7 @@ This can also be achived using extra variables in LPSolve...
 
 ### Usage
 
-```python
+```lp
 ❯ python lcm.py 12 18 10
 Using:	Front = 12, Center = 18, Back = 10
 	lcm=180
@@ -21,7 +21,7 @@ Using:	Front = 12, Center = 18, Back = 10
 Used to get greater then zero constraints for variables.
 
 ### Usage
-```python
+```lp
 ❯ python ge-zeros.py x1 x2 x3 x4 u1 u2 v1 v2
 x1 >= 0;
 x2 >= 0;
