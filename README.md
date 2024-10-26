@@ -1,4 +1,4 @@
-# Linear and Discrete Scripts
+# Linear and Discrete Scripts
 These python scripts are intended to be used for making your life easier with LPSolve IDE.
 
 ## `lcm.py`
